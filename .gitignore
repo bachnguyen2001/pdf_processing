@@ -1,0 +1,11 @@
+/.venv
+/converted_pdf
+/editable_pdf
+/image_pdf
+/pdf_images
+/pdf_process.zip
+/plumber.ipynb
+/raw_pdf
+/readme.txt
+/test_pdf_extractor.ipynb
+/text_converted
